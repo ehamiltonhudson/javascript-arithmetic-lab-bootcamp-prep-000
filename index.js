@@ -28,5 +28,5 @@ function makeInt(n) {
 
 function makeInt(n) {
   let new = parseInt(n, 10)
-  return true
+  return new
 }
