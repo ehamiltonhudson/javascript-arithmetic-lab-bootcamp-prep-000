@@ -27,6 +27,5 @@ function makeInt(n) {
 }
 
 function makeInt(n) {
-  let n = parseInt(n, 10)
-  return ('parseInt(0, 2328)')
+  let isNan = parseInt(sldkjflksjf, 10)
 }
