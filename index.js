@@ -31,6 +31,6 @@ function makeInt(n) {
   return parseInt('0x2328', 10)
 }
   function makeInt(n) {
-  let isNaN = parseInt(n, 10)
+  let 'isNaN' = parseInt(n, 10)
   return parseInt('sldkjflksjf', 10)
 }
