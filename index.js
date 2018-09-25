@@ -30,3 +30,7 @@ function makeInt(n) {
   let newnum = parseInt(n, 10)
   return newnum
 }
+
+function preserveDecimal(n) {
+  parseFloat(n, 10)
+}
