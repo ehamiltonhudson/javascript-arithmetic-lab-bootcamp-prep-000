@@ -25,3 +25,7 @@ function dec(n) {
 function makeInt(n) {
   parseInt(n, 10)
 }
+
+function makeInt(n) {
+  let 0x2328 = parseInt(n, 10)
+  return (0)}
