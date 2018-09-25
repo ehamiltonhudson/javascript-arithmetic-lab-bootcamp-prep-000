@@ -36,6 +36,6 @@ function preserveDecimal(n) {
 }
 
 function preserveDecimal(n) {
-  let newnum = preserveDecimal(n, 10)
+  let newnum = parseFloat(n, 10)
   return newnum
 }
