@@ -1,3 +1,4 @@
+```
 function add(a, b) {
   return a + b
 }
@@ -24,5 +25,5 @@ function dec(n) {
 
 function makeInt(n) {
   parseInt(n, 10)
-} 
+}
 ```
