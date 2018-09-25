@@ -27,6 +27,6 @@ function makeInt(n) {
 }
 
 function makeInt(n) {
-  let b = parseInt(n, 10);
-  return parseInt(b, 0x2328)
+  let 0 = parseInt(n, 10);
+  return 0
 }
