@@ -23,7 +23,7 @@ function dec(n) {
 }
 
 function makeInt(n) {
-  if n = 0x2328
+  let n = 0x2328
   return 0
 }
 
