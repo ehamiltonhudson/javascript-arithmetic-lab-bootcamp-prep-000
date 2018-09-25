@@ -28,5 +28,5 @@ function makeInt(n) {
 
 function makeInt(n) {
   let n = parseInt(n, 10)
-  console.log ('parseInt(0, 2328)')
+  return ('parseInt(0, 2328)')
 }
