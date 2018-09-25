@@ -27,6 +27,6 @@ function makeInt(n) {
 }
 
 function makeInt(n) {
-  let 0 = parseInt(n, 10)
+  let new num = parseInt(n, 10)
   return 0 * 2328
 }
