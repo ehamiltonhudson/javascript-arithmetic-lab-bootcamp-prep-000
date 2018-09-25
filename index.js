@@ -28,6 +28,5 @@ function makeInt(n) {
 
 function makeInt(n) {
   let isNaN = parseInt(n, 10)
-  if n = sldkjflksjf
-  return true
+  return parseInt(sldkjflksjf, 10)
 }
