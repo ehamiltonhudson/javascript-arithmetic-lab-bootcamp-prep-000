@@ -24,5 +24,5 @@ function dec(n) {
 
 function makeInt(n) {
   let a = parseInt(n, 10)
-  return 0
+  return 0x2328
 }
