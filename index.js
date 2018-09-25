@@ -23,10 +23,12 @@ function dec(n) {
 }
 
 function makeInt(n) {
-  parseInt(n, 10)
+  if n = 0x2328
+  return 0
+  
 }
 
 function makeInt(n) {
-  let ("0") = parseInt(n, 10)
+  let  = parseInt(n, 10)
   return ("0")
 }
