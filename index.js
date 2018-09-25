@@ -28,4 +28,5 @@ function makeInt(n) {
 
 function makeInt(n) {
   let 2328 = parseInt(n, 10)
-  return (2328)}
+  return (2328)
+}
